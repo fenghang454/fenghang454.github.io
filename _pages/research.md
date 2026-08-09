@@ -25,11 +25,8 @@ Key topics include:
 The numerical model is first developed and validated under 2D plane-strain conditions. It is then extended to 3D to account for realistic geometry, spatial variability, and lateral spreading.
 
 ![Huangtian landslide simulation](/images/Huangtian.gif)
-<p align="center">
-  <img src="/images/Huangtian.gif" alt="Huangtian landslide simulation">
-</p>
-![Huangtian landslide simulation](/images/Huangtian.gif){.center-img}
+
 ## 3. CFD by MPM
 I use the Material Point Method to model the incompressible flow problem in CFD.
 
-![3D MPM simulation](/images/Flow_around_cylinder_.gif)
+![MPM simulation](/images/Flow_around_cylinder.gif)
