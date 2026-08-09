@@ -16,12 +16,12 @@ Key topics include:
 - Kinetic theory
 - Solid-fluid phase transition model
 
-# Solid-fluid phase transition model
+### Solid-fluid phase transition model
 **solid-fluid phase transition** behavior is observed across three distinct stages of landslides: (a) Initiation: transitions from solid-like to fluid-like states; (b) Propagation: moving as a fluid-like state; (c) Sedimentation: regains solid-like behavior. Neither the soil mechanics-based nor fluid mechanics-based models can effectively depict the whole phase transition process. In this regard, we develop a robust constitutive model for the solid-fluid phase transition of soils.
 
 ![Phase transition](/images/Phase_transition.png)
 
-# Other topics
+### Other topics
 On-going
 
 ## 2. Computational mechanics
@@ -31,11 +31,11 @@ Key topics include:
 - Large deformation numerical model: FVM, MPM, and CEL
 - Computational fluid dynamics: LBM, MPM, SPH
 
-# Multiphysics MPM model
+### Multiphysics MPM model
 We develop the two-phase two-point MPM model for real-world submarine landslides.
 ![Huangtian landslide simulation](/images/Huangtian.gif)
 
-# CFD by MPM
+### CFD by MPM
 We use the cut-cell MPM for the incompressible flow past a cylinder.
 ![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
 
