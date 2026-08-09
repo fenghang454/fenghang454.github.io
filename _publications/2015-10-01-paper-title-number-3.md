@@ -3,7 +3,7 @@ title: "Beyond critical state: A critical-state hydrodynamic model (CSHM) for so
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper proposes a novel critical-state hydrodynamic model (CSHM), which efficiently captures clay's nonlinear solid-fluid phase transition by integrating quasi-static and viscous stress components in a unified framework'
+excerpt: 'This paper proposes a novel critical-state hydrodynamic model (CSHM), which efficiently captures clay's nonlinear solid-fluid phase transition by integrating quasi-static and viscous stress components in a unified framework.'
 date: 2026-05-05
 venue: 'Engineering Geology'
 slidesurl: ''
