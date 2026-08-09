@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
