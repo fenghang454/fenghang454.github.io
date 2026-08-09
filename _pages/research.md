@@ -29,4 +29,4 @@ The numerical model is first developed and validated under 2D plane-strain condi
 ## 3. CFD by MPM
 I use the Material Point Method to model the incompressible flow problem in CFD.
 
-![MPM simulation](/images/Flow_around_cylinder.gif)
+![flow_past_cylinder simulation](/images/Flow_around_cylinder.gif)
