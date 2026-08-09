@@ -6,9 +6,13 @@ author_profile: true
 
 My research focuses on numerical modelling of submarine landslides and large deformation problems in geomechanics.
 
-## 1. MPM Simulation of Submarine Landslides
+## 1. Soil behaviours
 
-Submarine landslides are major offshore geohazards that may threaten seabed infrastructure and trigger tsunamis. I use the Material Point Method to simulate the full process of slope failure, post-failure flow, runout, and deposition.
+Like water, soils can behave as solid-like, fluid-like, and gas-like. This complex behavior is observed across three distinct stages of landslides: (a) Initiation: transitions from solid-like to fluid-like states; (b) Propagation: moving as a fluid-like state; (c) Sedimentation: regains solid-like behavior.
+This multi-stage process is termed as solid-fluid "phase transition" behavior.
+Neither the soil mechanics-based nor fluid mechanics-based models can effectively depict the whole phase transition process. In this regard, we develop a robust constitutive model for the solid-fluid phase transition of soils.
+
+
 
 Key topics include:
 
