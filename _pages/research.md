@@ -15,6 +15,7 @@ Key topics include:
 
 - Phase transition constitutive model
 - Granular rheology
+
 ![3D MPM simulation](/images/phase_transition.png)
 
 ## 2. Large-deformation simulation
@@ -22,9 +23,11 @@ I use the Material Point Method to simulate the full process of submarine landsl
 
 Key topics include:
 The numerical model is first developed and validated under 2D plane-strain conditions. It is then extended to 3D to account for realistic geometry, spatial variability, and lateral spreading.
-![3D MPM simulation](/images/submarine_landslide.png)
+
+![3D MPM simulation](/images/submarine_landslide.gif)
 
 ## 3. CFD by MPM
 I use the Material Point Method to model the incompressible flow problem in CFD.
-![3D MPM simulation](/images/cavity_flow.png)
-![3D MPM simulation](/images/flow_past_cylinder.png)
+
+![3D MPM simulation](/images/cavity_flow.gif)
+![3D MPM simulation](/images/flow_past_cylinder.gif)
