@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Welcome to my personal website. Here, you can find information about my academic background.
+
 Education
 ======
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
