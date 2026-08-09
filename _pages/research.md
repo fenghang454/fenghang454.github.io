@@ -7,8 +7,6 @@ author_profile: true
 My research focuses on numerical modelling of submarine landslides and large deformation problems in geomechanics.
 
 ## 1. Soil behaviours
-
-
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.
 
 Key topics include:
@@ -23,15 +21,24 @@ Key topics include:
 
 ![Phase transition](/images/Phase_transition.png)
 
-## 2. Large-deformation simulation
-I use the Material Point Method to simulate the full process of submarine landslides, local scour, and soil surface erosion, capturing the pre-failure initiation, post-failure flow, runout, and deposition.
+# Other topics
+On-going
+
+## 2. Computational mechanics
+Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient numerical platform.
 
 Key topics include:
-The numerical model is first developed and validated under 2D plane-strain conditions. It is then extended to 3D to account for realistic geometry, spatial variability, and lateral spreading.
+- Large deformation numerical model: FVM, MPM, and CEL
+- Computational fluid dynamics: LBM, MPM, SPH
 
+# Multiphysics MPM model
+We develop the two-phase two-point MPM model for real-world submarine landslides.
 ![Huangtian landslide simulation](/images/Huangtian.gif)
 
-## 3. CFD by MPM
-I use the Material Point Method to model the incompressible flow problem in CFD.
-
+# CFD by MPM
+We use the cut-cell MPM for the incompressible flow past a cylinder.
 ![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
+
+## 3. AI-based application
+I integrated the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
+
