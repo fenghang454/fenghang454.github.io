@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Geotechnical Engineering, supervised by Prof. Zhen-Yu Yin (https://geoinvention.com) at The Hong Kong Polytechnic University. I will graduate this September. 
+I am a PhD student in Geotechnical Engineering at the Hong Kong Polytechnic University. I will graduate this September. 
 During my PhD, I mainly focused on three aspects: (i) Materials Modeling: developing advanced phase transition constitutive models for the granular and clayey soils, (ii) Computational Geomechanics: implementing these models within the material point method (MPM) to establish a multi-physics numerical framework; (iii) Computational Fluid Dynamics: developing a cut-cell-based MPM for incompressible fluids and a LES-based MPM for turbulent flows. All simulation cases are developed using my own Python/MATLAB codes. In addition, I integrated the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems. 
 
 ## Research Interests
 
-- Computatioanl geomechanics 
-- Large deformation simulation (MPM, SPH, and others)
-- Earth surface physics
+- Computational geomechanics
+- Large deformation simulation (CFD, MPM, and SPH)
+- Earth surface physics (experiments and constitutive modelling)
 
 ## News
 
