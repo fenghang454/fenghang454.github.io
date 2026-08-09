@@ -28,7 +28,7 @@ The numerical model is first developed and validated under 2D plane-strain condi
 <p align="center">
   <img src="/images/Huangtian.gif" alt="Huangtian landslide simulation">
 </p>
-
+![Huangtian landslide simulation](/images/Huangtian.gif){.center-img}
 ## 3. CFD by MPM
 I use the Material Point Method to model the incompressible flow problem in CFD.
 
