@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-  Nice to meet you!
-  I am Hang FENG (冯航 in Chinese), from Xishui (习水 in Chinese), a summer mountain resort.
-  I am currently a PhD student in Geotechnical Engineering at the Hong Kong Polytechnic University, and I will graduate this September.
+  Nice to meet you!  
+  I am Hang FENG (冯航 in Chinese), from Xishui (习水 in Chinese), a summer mountain resort.  
+  I am currently a PhD student in Geotechnical Engineering at the Hong Kong Polytechnic University, and I will graduate this September.  
 
 ## Research Interests
 
