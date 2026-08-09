@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-% [Download CV](/files/CV.pdf)
-
 Education
 ======
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
