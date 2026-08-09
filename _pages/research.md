@@ -16,7 +16,7 @@ Key topics include:
 - Phase transition constitutive model
 - Granular rheology
 
-![3D MPM simulation](/images/phase_transition.jpg.png)
+![3D MPM simulation](/images/phase_transition.png)
 
 ## 2. Large-deformation simulation
 I use the Material Point Method to simulate the full process of submarine landslides, local scour, and soil surface erosion, capturing the pre-failure initiation, post-failure flow, runout, and deposition.
