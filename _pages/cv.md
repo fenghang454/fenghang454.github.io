@@ -9,18 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-[下载简历](/files/CV.pdf)
+[Download CV](/files/CV.pdf)
 
 Education
 ======
-* 2023.09-2026.09: Ph.D in **The Hong Kong Polytechnic University** (Geotechnical engineering)
-  * Supervisor: Zhen-yu Yin
+* 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
+  * Ph.D. in geotechnical engineering
+  * Supervisor: [Zhen-yu Yin](https://geoinvention.com/)
   * Thesis: Constitutive modelling of solid-fluid phase transition behaviors of soils and applications via material point method
-* 2020.09-2023.06: M.S. in **Tongji University** (Geotechnical engineering)
-  * Supervisor: Maosong Huang
+* 2020.09-2023.06: **Tongji University**
+  * M.S. in geotechnical engineering
+  * Supervisor: [Maosong Huang](https://geotec.tongji.edu.cn/hms/main.psp)
   * Thesis: The bearing and deformation characteristics of suction caisson subjected to vertical uplift load (in Chinese)
-* 2016.09-2020.06: B.S. in **University of Science and Technology Beijing** (Major: Civil engineering; Minor: German)
-  * Supervisor: Hongguang Ji
+* 2016.09-2020.06: **University of Science and Technology Beijing** (USTB)
+  * B.S. in civil engineering; Minor: German
+  * **USTB** is where dreams begin
 
 Work experience
 ======
@@ -30,11 +33,13 @@ Work experience
 Skills
 ======
 * Numerical modelling: FEM, MPM, DEM
-* Languages
-  * Chinese
-  * English
-  * German
+* Languages: Chinese, English, German
   
 Service and leadership
 ======
-* ongoing
+* Ongoing
+
+Recommending books
+======
+* ‘Platform Sutra of the Sixth Patriarch’
+* ‘Zizhi Tongjian’
