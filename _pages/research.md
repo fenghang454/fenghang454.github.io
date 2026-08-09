@@ -21,7 +21,7 @@ Key topics include:
 # Solid-fluid phase transition model
 **solid-fluid phase transition** behavior is observed across three distinct stages of landslides: (a) Initiation: transitions from solid-like to fluid-like states; (b) Propagation: moving as a fluid-like state; (c) Sedimentation: regains solid-like behavior. Neither the soil mechanics-based nor fluid mechanics-based models can effectively depict the whole phase transition process. In this regard, we develop a robust constitutive model for the solid-fluid phase transition of soils.
 
-![Phase transition](/images/phase_transition.png)
+![Phase transition](/images/Phase_transition.png)
 
 
 ## 2. Large-deformation simulation
