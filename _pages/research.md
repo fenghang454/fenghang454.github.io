@@ -21,9 +21,6 @@ Key topics include:
 
 ![Phase transition](/images/Phase_transition.png)
 
-### Other topics
-On-going
-
 ## 2. Computational mechanics
 Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient numerical platform.
 
@@ -36,7 +33,7 @@ We develop the two-phase two-point MPM model for real-world submarine landslides
 ![Huangtian landslide simulation](/images/Huangtian.gif)
 
 ### CFD by MPM
-We use the cut-cell MPM for the incompressible flow past a cylinder.
+We develop the cut-cell MPM for the incompressible flow past a cylinder.
 ![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
 
 ## 3. AI-based application
