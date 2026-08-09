@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on numerical modelling of submarine landslides and large deformation problems in geomechanics.
+My current research focuses on the soil behaviours and large deformation numerical modelling in computational mechanics.
 
 ## 1. Soil behaviours
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.
