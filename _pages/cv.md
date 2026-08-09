@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+[下载简历](/files/CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2023.09-2026.09: Ph.D in **The Hong Kong Polytechnic University** (Geotechnical engineering)
+  * Supervisor: Zhen-yu Yin
+  * Thesis: Constitutive modelling of solid-fluid phase transition behaviors of soils and applications via material point method
+* 2020.09-2023.06: M.S. in **Tongji University** (Geotechnical engineering)
+  * Supervisor: Maosong Huang
+  * Thesis: The bearing and deformation characteristics of suction caisson subjected to vertical uplift load (in Chinese)
+* 2016.09-2020.06: B.S. in **University of Science and Technology Beijing** (Major: Civil engineering; Minor: German)
+  * Supervisor: Hongguang Ji
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.09-2026.09: Research associate
+  * The Hong Kong Polytechnic University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Numerical modelling: FEM, MPM, DEM
+* Languages
+  * Chinese
+  * English
+  * German
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ongoing
