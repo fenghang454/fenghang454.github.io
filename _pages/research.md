@@ -25,8 +25,9 @@ Key topics include:
 Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient numerical platform.
 
 Key topics include:
-- Large deformation numerical model: FVM, MPM, and CEL
-- Computational fluid dynamics: LBM, MPM, SPH
+- Large deformation numerical model: FVM, MPM, LBM, and CEL
+- Computational fluid dynamics
+- Hybrid numerical model: FVM-MPM, LBM-MPM
 
 ### Multiphysics MPM model
 We develop the two-phase two-point MPM model for real-world submarine landslides.
