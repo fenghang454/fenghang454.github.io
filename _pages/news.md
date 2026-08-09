@@ -6,7 +6,6 @@ author_profile: true
 
 ## My website is online
 
-**Time:** 2026.08 
-**Role:** Researcher
-
-I am building my first personal academic page.
+**Time:** 2026.08  
+**Site:** Online 
+**Description:** Congratulation! I am building my first personal academic page. This is a small step, but a giant step.
