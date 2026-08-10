@@ -46,7 +46,7 @@ author_profile: true
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.3947)
 
 6. Guo, Q.M., Zhan, L.T., Yin, Z.Y., **Feng, H.**, Yang, G.Q., Chen, Y.M., Chen, Y.A., 2025.
-   *Correlation of excavated soil multi-source heterogeneous data using multimodal diffusion model.* 
+   *Correlation of excavated soil multi-source heterogeneous data using multimodal diffusion model.*  
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-025-02690-z)
 
 5. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
