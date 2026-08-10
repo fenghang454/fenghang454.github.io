@@ -25,7 +25,7 @@ author_profile: true
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
 
-11. Zhu, K., **Feng, H.***, Yu, J., Li, S., 2026.
+11. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
    *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
    Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
 
@@ -65,7 +65,7 @@ author_profile: true
    *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.* 
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
-1. Huang, M., **Feng, H.**, Shi, Z.*, Shen, K., Wang, B., 2024.
+1. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
    *Inferred Winkler model for uplift response of suction caisson in undrained clays.* 
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
