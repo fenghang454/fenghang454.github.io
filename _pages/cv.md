@@ -43,5 +43,5 @@ Service and leadership
   
 Recommending books
 ======
-* ‘Platform Sutra of the Sixth Patriarch’
-* ‘Zizhi Tongjian’
+* Platform Sutra of the Sixth Patriarch (资治通鉴)
+* Zizhi Tongjian (六祖坛经)
