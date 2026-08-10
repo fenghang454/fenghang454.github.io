@@ -23,20 +23,24 @@ Education
   * B.S. in civil engineering; Minor: German
   * **USTB** is where dreams begin
 
+<!--
 Work experience
 ======
 * 2023.09-2026.09: Research associate
   * The Hong Kong Polytechnic University
+-->
 
 Skills
 ======
 * Numerical modelling: FEM, MPM, DEM
 * Languages: Chinese, English, German
 
+<!--
 Service and leadership
 ======
 * Ongoing
-
+-->
+  
 Recommending books
 ======
 * ‘Platform Sutra of the Sixth Patriarch’
