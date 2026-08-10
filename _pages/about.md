@@ -10,9 +10,9 @@ redirect_from:
   Nice to meet you!  
   I am Hang FENG (冯航 in Chinese), from Xishui (习水 in Chinese), a summer mountain resort.  
   I am currently a PhD student in Geotechnical Engineering at the Hong Kong Polytechnic University, and I will graduate this September.  
-  At Mount Huangshan, China.  
+   
   ![Mount Huangshan](/images/FengHang.jpg)
-  
+  (At Mount Huangshan, China)
 
   
 ## Research Interests
