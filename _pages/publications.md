@@ -66,7 +66,7 @@ author_profile: true
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
 1. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
-   *Inferred Winkler model for uplift response of suction caisson in undrained clays.* 
+   *Inferred Winkler model for uplift response of suction caisson in undrained clays.*   
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
 ## Conference Papers
