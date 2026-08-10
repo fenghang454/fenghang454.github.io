@@ -41,6 +41,7 @@ MPM is widely used for free-surface flows, but its performance for viscous incom
 ![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
 (Flow past a cylinder)
 
+<!--
 ## 3. AI-based application
 We also integrate the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
-
+-->
