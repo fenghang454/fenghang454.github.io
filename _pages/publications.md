@@ -58,11 +58,11 @@ author_profile: true
    Applied Ocean Research.  | [DOI](https://doi.org/10.1016/j.apor.2024.104233)
 
 3. Guo, Q.M., Zhan, L.T., Yin, Z.Y., **Feng, H.**, Yang, G.Q., Chen, Y.M., 2024.
-   *Multi-modal fusion deep learning model for excavated soil heterogeneous data with efficient classification.* 
+   *Multi-modal fusion deep learning model for excavated soil heterogeneous data with efficient classification.*  
    Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2024.106697)
 
 2. **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
-   *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.* 
+   *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.*  
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
 1. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
