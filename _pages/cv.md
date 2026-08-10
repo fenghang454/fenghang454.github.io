@@ -18,7 +18,7 @@ Education
 * 2020.09-2023.06: **Tongji University**
   * M.S. in geotechnical engineering
   * Supervisor: [Maosong Huang](https://geotec.tongji.edu.cn/hms/main.psp)
-  * Thesis: The bearing and deformation characteristics of suction caisson subjected to vertical uplift load (in Chinese)
+  * Thesis: The bearing and deformation characteristics of suction caisson subjected to vertical uplift load
 * 2016.09-2020.06: **University of Science and Technology Beijing** (USTB)
   * B.S. in civil engineering; Minor: German
   * **USTB** is where dreams begin
