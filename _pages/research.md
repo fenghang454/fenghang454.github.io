@@ -22,8 +22,8 @@ Key topics include:
 ![Phase transition](/images/Phase_transition.png)
 (Phase transition in landslides)
 
-## 2. Computational mechanics
-Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient numerical platform.
+## 2. Physics-based computational mechanics
+Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient physics-based numerical platform.
 
 Key topics include:
 - Numerical method: Finite Element Method (FVM), Material Point Method (MPM), Lattice Boltzmann Method (LBM), Coupled-Eulerian-Lagrangian (CEL), and **new methods: ???**
