@@ -17,7 +17,6 @@ redirect_from:
   
 ## Research Interests
 
-- Earth Surface Physics: experiments, mathematical models, and field observations
-- Computational Geomechanics: FEM, MPM, and SPH
-- Computational Fluid Dynamics: particle-based methods (MPM), special methods (LBM)
-- Offshore geotechnical engineering: soil-structure interaction
+- Physics-based computational modelling: FEM, MPM, and LBM
+- Earth surface physics: experiments, mathematical models, and field observations
+- Offshore geotechnical engineering
