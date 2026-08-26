@@ -29,13 +29,13 @@ Key topics include:
 - Numerical method: Finite Element Method (FVM), Material Point Method (MPM), Lattice Boltzmann Method (LBM), Coupled-Eulerian-Lagrangian (CEL), and **new methods: ???**
 - Hybrid numerical model: FVM-MPM, LBM-MPM
 
-### Multiphysics MPM model
+### Soil-fluid coupling problem via multiphysics MPM
 We establish two-phase two-point MPM frameworks for simulating soil-water coupling problems (e.g., granular flows, submarine landslides, soil surface erosion). Two sets of Lagrangian material points are used to discretize the soil-solid and fluid phases, while the Eulerian grid is employed to enable an effective soil-water coupling scheme.
 
 ![Huangtian landslide simulation](/images/Huangtian.gif)
 (Real-world Huangtian landslide-tsunami)
 
-### CFD by MPM
+### Fluid dynamic mechanics (CFD) via particle method
 MPM is widely used for free-surface flows, but its performance for viscous incompressible flow past a cylinder has not been systematically assessed. This work develops a cut-cell MPM tailored for viscous incompressible flow past a cylinder. A fractional-step explicit-implicit algorithm is employed, with an explicit stage for the intermediate velocity and an implicit stage for incompressible pressure and final velocity. Irregular boundaries on orthogonal grids are represented using a cut-cell method, while the viscous term is discretized via particle viscous stresses rather than grid stresses.
 
 ![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
