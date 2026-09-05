@@ -3,15 +3,14 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-## My oral defence
+## My oral defence  
+**Time:** 2026.09  
+**Site:** The Hong Kong Polytechnic University  
+![Oral defence](/images/Defence_with_prof.gif)  
+![Oral defence](/images/Defence_with_gril.gif)  
+**Description:** The PhD oral defence passed. 
 
-**Time:** 2026.09 
-**Site:** The Hong Kong Polytechnic University
-
-**Description:** The PhD oral defence passed.
-## My website is online
-
+## My website is online  
 **Time:** 2026.08  
-**Site:** Online
-
+**Site:** Online  
 **Description:** Congratulation! I built my first personal academic page. This is a small step, but a giant step.
