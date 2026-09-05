@@ -32,7 +32,7 @@ Work experience
 
 Skills
 ======
-* Numerical modelling: FEM, MPM, DEM
+* Numerical modelling: MPM
 * Languages: Chinese, English, German
 
 <!--
