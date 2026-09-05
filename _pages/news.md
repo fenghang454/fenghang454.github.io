@@ -8,7 +8,7 @@ author_profile: true
 **Site:** The Hong Kong Polytechnic University  
 ![Oral defence](/images/Defence_with_prof.jpg)  
 ![Oral defence](/images/Defence_with_gril.jpg)  
-**Description:** The PhD oral defence passed. 
+**Description:** The PhD oral defence passed. Thanks to my supervisor, Prof.Zhen-yu Yin, friends at PolyU, parents, and grilfriend.
 
 ## My website is online  
 **Time:** 2026.08  
