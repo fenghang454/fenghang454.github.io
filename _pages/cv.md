@@ -11,7 +11,7 @@ Welcome to my personal website. Here, you can find information about my academic
 
 Education
 ======
-* 2023.09-current: **The Hong Kong Polytechnic University** (PolyU)
+* 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
   * Ph.D. in geotechnical engineering
   * Supervisor: [Zhen-yu Yin](https://geoinvention.com/)
   * Thesis: Constitutive modelling of solid-fluid phase transition behaviors of soils and applications via material point method
@@ -26,7 +26,7 @@ Education
 <!--
 Work experience
 ======
-* 2023.09-2026.09: Research associate
+* 2026.09-current: finding work
   * The Hong Kong Polytechnic University
 -->
 
