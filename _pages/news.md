@@ -3,7 +3,12 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+## My oral defence
 
+**Time:** 2026.09 
+**Site:** The Hong Kong Polytechnic University
+
+**Description:** The PhD oral defence passed.
 ## My website is online
 
 **Time:** 2026.08  
