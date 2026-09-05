@@ -6,8 +6,8 @@ author_profile: true
 ## My oral defence  
 **Time:** 2026.09  
 **Site:** The Hong Kong Polytechnic University  
-![Oral defence](/images/Defence_with_prof.gif)  
-![Oral defence](/images/Defence_with_gril.gif)  
+![Oral defence](/images/Defence_with_prof.jpg)  
+![Oral defence](/images/Defence_with_gril.jpg)  
 **Description:** The PhD oral defence passed. 
 
 ## My website is online  
