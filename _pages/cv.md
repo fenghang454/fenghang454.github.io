@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="font-family: Arial; font-style: italic;"> 
-  Welcome to my personal website. Here, you can find information about my academic background.
+  Welcome to my personal website. Here, you can find the information about my academic background.
 </span> 
 
 
