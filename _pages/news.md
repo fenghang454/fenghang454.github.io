@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "<span style='color: #007ACC; font-family: Arial, sans-serif; font-style: italic;'>News</span>"
 permalink: /news/
 author_profile: true
 ---
