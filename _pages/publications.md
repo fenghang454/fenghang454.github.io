@@ -1,6 +1,6 @@
 ---
 title: "<span style='color: #007ACC; font-family: Arial, sans-serif; font-style: italic;'>Publications</span>"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 ---
 
