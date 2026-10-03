@@ -6,9 +6,9 @@ author_profile: true
 
 Full publications refer to: [Google scholar](https://scholar.google.com/citations?user=JNMEnjoAAAAJ&hl=zh-CN)  
 
-# Journal Papers
+## Journal Papers
 
-## Constitutive modelling
+### Constitutive modelling
 
 1. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
    *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
