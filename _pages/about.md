@@ -16,8 +16,7 @@ redirect_from:
 ![Mount Huangshan](/images/FengHang.jpg)
 (At Mount Huangshan, China)
 
-  
-## Research Interests
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Research Interests </span>
 
 - Physics-based computational modelling: FEM, MPM, and LBM
 - Earth surface physics: experiments, mathematical models, and field observations
