@@ -10,28 +10,17 @@ author_profile: true
 
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">1. Soil behaviours </span>
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.  
-- Phase transition constitutive model
-- Granular rheology
-- Kinetic theory
+- **Solid-fluid phase transition**
+- **Granular rheology**
+- **Kinetic theory**
 
-### Solid-fluid phase transition model
-**Solid-fluid phase transition** behavior is observed across three distinct stages of landslides: (a) Initiation: transitions from solid-like to fluid-like states; (b) Propagation: moving as a fluid-like state; (c) Sedimentation: regains solid-like behavior. Neither the soil mechanics-based nor fluid mechanics-based models can effectively depict the whole phase transition process. In this regard, we develop a constitutive model for the solid-fluid phase transition of soils.
-
-## 2. Physics-based computational mechanics
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">2. Physics-based computational mechanics </span>
 Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient physics-based numerical platform.
+- **Numerical method: Finite Element Method (FVM), Material Point Method (MPM)**
+- **Hybrid numerical model: FVM-MPM, LBM-MPM**
+- **Fluid dynamic mechanics (CFD) via particle method**
 
-Key topics include:
-- Numerical method: Finite Element Method (FVM), Material Point Method (MPM), Lattice Boltzmann Method (LBM), Coupled-Eulerian-Lagrangian (CEL), and **new methods: ???**
-- Hybrid numerical model: FVM-MPM, LBM-MPM
-
-### Soil-fluid coupling problem via multiphysics MPM
-We establish two-phase two-point MPM frameworks for simulating soil-water coupling problems (e.g., granular flows, submarine landslides, soil surface erosion). Two sets of Lagrangian material points are used to discretize the soil-solid and fluid phases, while the Eulerian grid is employed to enable an effective soil-water coupling scheme.
-
-
-### Fluid dynamic mechanics (CFD) via particle method
-MPM is widely used for free-surface flows, but its performance for viscous incompressible flow past a cylinder has not been systematically assessed. This work develops a cut-cell MPM tailored for viscous incompressible flow past a cylinder. A fractional-step explicit-implicit algorithm is employed, with an explicit stage for the intermediate velocity and an implicit stage for incompressible pressure and final velocity. Irregular boundaries on orthogonal grids are represented using a cut-cell method, while the viscous term is discretized via particle viscous stresses rather than grid stresses.
-
-<!--
-## 3. AI-based application
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">3. Engineering application </span>
 We also integrate the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
--->
+- **Real-world landslide prediction**
+- **Offshore geotechnical engineering**
