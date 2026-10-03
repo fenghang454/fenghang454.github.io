@@ -26,7 +26,7 @@ Full publications refer to: [Google scholar](https://scholar.google.com/citation
    *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay.*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)
 
-## Numerical modelling
+### Numerical modelling
 
 1. **Feng, H.**, Yin, Z.Y., Qiu, Y., 2025.
    *Two-phase two-point MPM modeling of submarine granular flows considering solid-to-fluid phase transition over frictional plane.*  
@@ -48,7 +48,7 @@ Full publications refer to: [Google scholar](https://scholar.google.com/citation
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
 
-## Engineering applications
+### Engineering applications
 
 1. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
@@ -70,7 +70,7 @@ Full publications refer to: [Google scholar](https://scholar.google.com/citation
    *Inferred Winkler model for uplift response of suction caisson in undrained clays.*   
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
-# Conference Papers
+## Conference Papers
 
 1.  **Feng, H.**, Yin, Z. Y., 2024.
    *Numerical Study of Lateral Responses of Monopiles with Local Scour Holes in Non-homogenous Clay.*  
