@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+  
 # Journal Papers
 
 ## Constitutive modelling
@@ -21,7 +21,7 @@ author_profile: true
    Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107218)
    
 4. **Feng, H.**, Yin, Z.Y., 2026.
-   *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay*  
+   *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay.*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)
 
 ## Numerical modelling
@@ -31,19 +31,19 @@ author_profile: true
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2025.122798)
 
 2. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
-   *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation*  
+   *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation.*  
    Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)
 
 3. **Feng, H.**, Yin, Z.Y., 2026.
-   *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides*  
+   *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides.*  
    International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111652)
 
 4. **Feng, H.**, Yin, Z.Y., 2026.
-   *Soil surface erosion simulation using material point method*  
+   *Soil surface erosion simulation using material point method.*  
    International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111470)
    
 5. **Feng, H.**, Yin, Z.Y., 2026.
-   *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model*  
+   *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
 
 ## Engineering applications
