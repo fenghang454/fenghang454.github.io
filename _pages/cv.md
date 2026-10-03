@@ -13,7 +13,7 @@ redirect_from:
 
 
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Education </span>
-======
+
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
   * Ph.D. in geotechnical engineering
   * Supervisor: [Zhen-yu Yin](https://geoinvention.com/)
@@ -28,23 +28,27 @@ redirect_from:
 
 <!--
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Work experience </span>
-======
+
 * 2026.09-current: finding work
   * The Hong Kong Polytechnic University
 -->
 
+<!--
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Skills </span>
-======
+
 * Numerical modelling: MPM
 * Languages: Chinese, English, German
+-->
 
 <!--
 Service and leadership
 ======
 * Ongoing
 -->
-  
+
+<!--
 Recommending books
 ======
 * Platform Sutra of the Sixth Patriarch (六祖坛经)
 * Zizhi Tongjian (资治通鉴)
+-->
