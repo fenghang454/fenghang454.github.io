@@ -37,11 +37,11 @@ Real-world geohazards (e.g., landslides and soil surface erosion) usually has th
 
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">3. Engineering application </span>
 <p style="font-family: Arial, sans-serif; line-height: 1.5; text-align: justify;">
-We also integrate the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
+We also use numerical methods (e.g., FEM and MPM) for engineering problems, such as the foundation's bearing capacity in the offshore engineering and real-world landslides.
 </p>
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
-  <li>Real-world landslide prediction</li>
+  <li>Real-world landslide simulation</li>
   <li>Offshore geotechnical engineering</li>
 </ul>
 
