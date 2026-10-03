@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <span style='color: #007ACC; font-family: Arial, sans-serif; font-style: italic;'>CV</span>
 permalink: /cv/
 author_profile: true
 redirect_from:
