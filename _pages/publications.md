@@ -4,7 +4,9 @@ permalink: "<span style='color: #007ACC; font-family: Arial, sans-serif; font-st
 author_profile: true
 ---
 
-Full publications refer to: [Google scholar](https://scholar.google.com/citations?user=JNMEnjoAAAAJ&hl=zh-CN)  
+<span style="font-family: Arial; font-style: italic;"> 
+  Full publications refer to: [Google scholar](https://scholar.google.com/citations?user=JNMEnjoAAAAJ&hl=zh-CN).
+</span>
 
 ## Journal Papers
 
