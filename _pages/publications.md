@@ -60,7 +60,7 @@ author_profile: true
    *Macro-element modelling for lateral response of monopiles with local scour hole via hyperbolic hardening relation.*  
    Applied Ocean Research.  | [DOI](https://doi.org/10.1016/j.apor.2024.104233)
 
-5 **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
+5. **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
    *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.*  
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
