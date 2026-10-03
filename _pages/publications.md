@@ -5,63 +5,61 @@ author_profile: true
 ---
 
 ## Journal Papers
-16. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
-   *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation*  
-   Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)
-   
-15. **Feng, H.**, Yin, Z.Y., 2026.
-   *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides*  
-   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111652)
-   
-14. **Feng, H.**, Yin, Z.Y., 2026.
+
+# Constitutive modelling
+1. **Feng, H.**, Yin, Z.Y., 2026.
    *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)
+   
+2. **Feng, H.**, Yin, Z.Y., Liang, W., 2025.
+   *A novel unified elastoplasticity-μ(I) phase transition model for granular flows from solid-like to fluid-like states and its application.*  
+   Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2025.108054)
+   
+3. **Feng, H.**, Yin, Z.Y., 2025.
+   *Enhanced elastoplasticity-based frictional-collisional model for solid-fluid phase transition of granular media.*  
+   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107218)
 
-13. **Feng, H.**, Yin, Z.Y., 2026.
+4. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
+   *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
+   International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.3947)
+   
+# Numerical modelling
+
+1. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
+   *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation*  
+   Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)
+
+2. **Feng, H.**, Yin, Z.Y., 2026.
+   *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides*  
+   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111652)
+
+3. **Feng, H.**, Yin, Z.Y., 2026.
    *Soil surface erosion simulation using material point method*  
    International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111470)
-
+   
 12. **Feng, H.**, Yin, Z.Y., 2026.
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
-
-11. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
-   *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
-   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
 
 10. **Feng, H.**, Yin, Z.Y., Qiu, Y., 2025.
    *Two-phase two-point MPM modeling of submarine granular flows considering solid-to-fluid phase transition over frictional plane.*  
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2025.122798)
 
-9. **Feng, H.**, Yin, Z.Y., Liang, W., 2025.
-   *A novel unified elastoplasticity-μ(I) phase transition model for granular flows from solid-like to fluid-like states and its application.*  
-   Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2025.108054)
+# Engineering applications
 
-8. **Feng, H.**, Yin, Z.Y., 2025.
-   *Enhanced elastoplasticity-based frictional-collisional model for solid-fluid phase transition of granular media.*  
-   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107218)
+1. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
+   *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
+   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
 
-7. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
-   *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
-   International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.3947)
-
-6. Guo, Q.M., Zhan, L.T., Yin, Z.Y., **Feng, H.**, Yang, G.Q., Chen, Y.M., Chen, Y.A., 2025.
-   *Correlation of excavated soil multi-source heterogeneous data using multimodal diffusion model.*  
-   Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-025-02690-z)
-
-5. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
+2. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
    Archives of Computational Methods in Engineering.  | [DOI](https://doi.org/10.1007/s11831-024-10198-0)
 
-4. **Feng, H.**, Yin, Z. Y., Peng, M., 2024.
+3. **Feng, H.**, Yin, Z. Y., Peng, M., 2024.
    *Macro-element modelling for lateral response of monopiles with local scour hole via hyperbolic hardening relation.*  
    Applied Ocean Research.  | [DOI](https://doi.org/10.1016/j.apor.2024.104233)
 
-3. Guo, Q.M., Zhan, L.T., Yin, Z.Y., **Feng, H.**, Yang, G.Q., Chen, Y.M., 2024.
-   *Multi-modal fusion deep learning model for excavated soil heterogeneous data with efficient classification.*  
-   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2024.106697)
-
-2. **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
+4 **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
    *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.*  
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
