@@ -11,7 +11,8 @@ redirect_from:
   Welcome to my personal website. Here, you can find information about my academic background.
 </span> 
 
-Education
+
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Education </span>
 ======
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
   * Ph.D. in geotechnical engineering
@@ -26,13 +27,13 @@ Education
   * **USTB** is where dreams begin
 
 <!--
-Work experience
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Work experience </span>
 ======
 * 2026.09-current: finding work
   * The Hong Kong Polytechnic University
 -->
 
-Skills
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Skills </span>
 ======
 * Numerical modelling: MPM
 * Languages: Chinese, English, German
