@@ -40,8 +40,9 @@ Real-world geohazards (e.g., landslides and soil surface erosion) usually has th
 We also integrate the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
 </p>
 
-<img src="/images/Huangtian.gif" alt="Simulation 3" style="display: block; margin: 15px auto; width: 100%; max-width: 600px; height: 350px; object-fit: contain; background: #fafafa; border: 1px solid #e1e4e8; border-radius: 6px;">
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
   <li>Real-world landslide prediction</li>
   <li>Offshore geotechnical engineering</li>
 </ul>
+
+<img src="/images/Huangtian.gif" alt="Simulation 3" style="display: block; margin: 15px auto; width: 100%; max-width: 600px; height: 350px; object-fit: contain; background: #fafafa; border: 1px solid #e1e4e8; border-radius: 6px;">
