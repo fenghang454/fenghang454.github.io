@@ -32,7 +32,7 @@ Real-world geohazards (e.g., landslides and soil surface erosion) usually has th
   <li>Hybrid numerical model: FVM-MPM, LBM-MPM</li>
 </ul>
 
-<img src="/path/to/Flow_cylinders.gif" alt="Simulation 2" style="display: block; margin: 15px auto; width: 100%; max-width: 600px; height: 350px; object-fit: contain; background: #fafafa; border: 1px solid #e1e4e8; border-radius: 6px;">
+<img src="/path/to/Flow_cylinder.gif" alt="Simulation 2" style="display: block; margin: 15px auto; width: 100%; max-width: 600px; height: 350px; object-fit: contain; background: #fafafa; border: 1px solid #e1e4e8; border-radius: 6px;">
 
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">3. Engineering application </span>
 <p style="font-family: Arial, sans-serif; line-height: 1.5; text-align: justify;">
