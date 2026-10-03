@@ -3,14 +3,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-## My oral defence  
-**Time:** 2026.09  
-**Site:** The Hong Kong Polytechnic University  
-![Oral defence](/images/Defence_with_prof.jpg)  
-![Oral defence](/images/Defence_with_gril.jpg)  
-**Description:** The PhD oral defence passed. Thanks to my supervisor, Prof.Zhen-yu Yin, friends at PolyU, parents, and grilfriend.
 
-## My website is online  
-**Time:** 2026.08  
-**Site:** Online  
-**Description:** Congratulation! I built my first personal academic page. This is a small step, but a giant step.
+
+2026.09  | The PhD oral defence passed. Thanks to my supervisor, Prof.Zhen-yu Yin, friends at PolyU, parents, and grilfriend.
+
+2026.08  | My website is online. I built my first personal academic page. This is a small step, but a giant step.
