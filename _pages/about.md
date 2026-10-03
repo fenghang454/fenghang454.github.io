@@ -18,6 +18,8 @@ redirect_from:
 
 ## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Research Interests </span>
 
-- Physics-based computational modelling: FEM, MPM, and LBM
-- Earth surface physics: experiments, mathematical models, and field observations
-- Offshore geotechnical engineering
+<ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
+  <li>Physics-based computational modelling: FEM, MPM, and LBM</li>
+  <li>Earth surface physics: experiments, mathematical models, and field observations</li>
+  <li>Offshore geotechnical engineering</li>
+</ul>
