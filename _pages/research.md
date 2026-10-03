@@ -19,9 +19,6 @@ Key topics include:
 ### Solid-fluid phase transition model
 **Solid-fluid phase transition** behavior is observed across three distinct stages of landslides: (a) Initiation: transitions from solid-like to fluid-like states; (b) Propagation: moving as a fluid-like state; (c) Sedimentation: regains solid-like behavior. Neither the soil mechanics-based nor fluid mechanics-based models can effectively depict the whole phase transition process. In this regard, we develop a constitutive model for the solid-fluid phase transition of soils.
 
-![Phase transition](/images/Phase_transition.png)
-(Phase transition in landslides)
-
 ## 2. Physics-based computational mechanics
 Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient physics-based numerical platform.
 
@@ -32,14 +29,9 @@ Key topics include:
 ### Soil-fluid coupling problem via multiphysics MPM
 We establish two-phase two-point MPM frameworks for simulating soil-water coupling problems (e.g., granular flows, submarine landslides, soil surface erosion). Two sets of Lagrangian material points are used to discretize the soil-solid and fluid phases, while the Eulerian grid is employed to enable an effective soil-water coupling scheme.
 
-![Huangtian landslide simulation](/images/Huangtian.gif)
-(Real-world Huangtian landslide-tsunami)
 
 ### Fluid dynamic mechanics (CFD) via particle method
 MPM is widely used for free-surface flows, but its performance for viscous incompressible flow past a cylinder has not been systematically assessed. This work develops a cut-cell MPM tailored for viscous incompressible flow past a cylinder. A fractional-step explicit-implicit algorithm is employed, with an explicit stage for the intermediate velocity and an implicit stage for incompressible pressure and final velocity. Irregular boundaries on orthogonal grids are represented using a cut-cell method, while the viscous term is discretized via particle viscous stresses rather than grid stresses.
-
-![flow_past_cylinder simulation](/images/Flow_cylinder.gif)
-(Flow past a cylinder)
 
 <!--
 ## 3. AI-based application
