@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "<span style='color: #007ACC; font-family: Arial, sans-serif;'>Research</span>"
 permalink: /research/
 author_profile: true
 ---
