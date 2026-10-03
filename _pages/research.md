@@ -8,34 +8,34 @@ author_profile: true
   My current research focuses on the soil behaviours and physics-based large deformation numerical modelling.
 </span>
 
-## <span style="font-family: Arial; font-style: italic; color: #5b21b6;">1. Soil behaviours </span>
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">1. Soil behaviours </span>
 <p style="font-family: Arial, sans-serif; line-height: 1.5; text-align: justify;">
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.
 </p>
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
   <li>Solid-fluid phase transition</li>
-  <li><strong>Granular rheology</strong></li>
-  <li><strong>Kinetic theory</strong></li>
+  <li>Granular rheology</li>
+  <li>Kinetic theory</li>
 </ul>
 
-## <span style="font-family: Arial; font-style: italic; color: #5b21b6;">2. Physics-based computational mechanics </span>
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">2. Physics-based computational mechanics </span>
 <p style="font-family: Arial, sans-serif; line-height: 1.5; text-align: justify;">
 Real-world geohazards (e.g., landslides and soil surface erosion) usually has the large-deformation, large-scale, and multi-physics characteristic. Hence, we use the continuum-based numerical model to develop an efficient physics-based numerical platform.
 </p>
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
-  <li><strong>Numerical method: Material Point Method (MPM)</strong></li>
-  <li><strong>Fluid dynamic mechanics (CFD) via particle method</strong></li>
-  <li><strong>Hybrid numerical model: FVM-MPM, LBM-MPM</strong></li>
+  <li>Numerical method: Material Point Method (MPM)</li>
+  <li>Fluid dynamic mechanics (CFD) via particle method</li>
+  <li>Hybrid numerical model: FVM-MPM, LBM-MPM</li>
 </ul>
 
-## <span style="font-family: Arial; font-style: italic; color: #5b21b6;">3. Engineering application </span>
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">3. Engineering application </span>
 <p style="font-family: Arial, sans-serif; line-height: 1.5; text-align: justify;">
 We also integrate the finite element method (FEM) with machine learning (ML) to address foundation bearing capacity problems.
 </p>
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
-  <li><strong>Real-world landslide prediction</strong></li>
-  <li><strong>Offshore geotechnical engineering</strong></li>
+  <li>Real-world landslide prediction</li>
+  <li>Offshore geotechnical engineering</li>
 </ul>
