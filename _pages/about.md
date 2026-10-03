@@ -10,7 +10,6 @@ redirect_from:
 <span style="font-family: Arial; font-style: italic;"> 
   Nice to meet you!  
   I am Hang FENG (冯航 in Chinese), from Xishui (习水 in Chinese), a summer mountain resort.  
-  I am currently a PhD student in Geotechnical Engineering at the Hong Kong Polytechnic University.  
 </span>
 
 <img src="/images/FengHang.jpg" alt="At Mount Huangshan, China" style="display: block; margin: 15px auto; width: 100%; max-width: 600px; height: 350px; object-fit: contain; background: #fafafa; border: 1px solid #e1e4e8; border-radius: 6px;">
