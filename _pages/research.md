@@ -8,7 +8,7 @@ author_profile: true
   My current research focuses on the soil behaviours and physics-based large deformation numerical modelling.
 </span>
 
-## 1. Soil behaviours
+## <span style="font-family: Arial, sans-serif; font-style: italic; color: #007ACC;">1. Soil behaviours </span>
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.  
 - Phase transition constitutive model
 - Granular rheology
