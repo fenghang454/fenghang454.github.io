@@ -9,7 +9,7 @@ author_profile: true
 </span>
 
 ## <span style="font-family: Arial; font-style: italic; color: #0d9488;">1. Soil behaviours </span>
-<p style="font-family: Helvetica, sans-serif; line-height: 1.5; text-align: justify;">
+<p style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.7; color: #2f3542; text-align: justify;">
 Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. For example, they may behave like a fluid on beaches or in deserts, act as a solid when serving as foundations for buildings, or exhibit gas-like behavior in sandstorms. Our research focuses on these multifaceted and complex behaviors, as well as on unified mathematical models that describe soils across these multiple states.
 </p>
 
