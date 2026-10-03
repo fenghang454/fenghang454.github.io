@@ -14,7 +14,7 @@ Like water, soils can exhibit solid-like, fluid-like, and gas-like behaviors. Fo
 </p>
 
 <ul style="list-style-position: inside; padding-left: 0; margin-left: 0;">
-  <li><strong>Solid-fluid phase transition</strong></li>
+  <li>Solid-fluid phase transition</li>
   <li><strong>Granular rheology</strong></li>
   <li><strong>Kinetic theory</strong></li>
 </ul>
