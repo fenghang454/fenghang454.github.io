@@ -8,9 +8,9 @@ author_profile: true
   Full publications refer to: [Google scholar](https://scholar.google.com/citations?user=JNMEnjoAAAAJ&hl=zh-CN).
 </span>
 
-## Journal Papers
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Journal Papers </span>
 
-### Constitutive modelling
+### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Constitutive modelling </span>
 
 1. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
    *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
@@ -28,7 +28,7 @@ author_profile: true
    *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay.*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)
 
-### Numerical modelling
+### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Numerical modelling </span>
 
 1. **Feng, H.**, Yin, Z.Y., Qiu, Y., 2025.
    *Two-phase two-point MPM modeling of submarine granular flows considering solid-to-fluid phase transition over frictional plane.*  
@@ -50,7 +50,7 @@ author_profile: true
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
 
-### Engineering applications
+### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Engineering applications </span>
 
 1. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
@@ -72,7 +72,7 @@ author_profile: true
    *Inferred Winkler model for uplift response of suction caisson in undrained clays.*   
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
-## Conference Papers
+## <span style="font-family: Arial; font-style: italic; color: #007ACC;">Conference Papers </span>
 
 1.  **Feng, H.**, Yin, Z. Y., 2024.
    *Numerical Study of Lateral Responses of Monopiles with Local Scour Holes in Non-homogenous Clay.*  
