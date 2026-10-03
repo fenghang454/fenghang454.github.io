@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Welcome to my personal website. Here, you can find information about my academic background.
+<span style="font-family: Arial; font-style: italic;"> 
+  Welcome to my personal website. Here, you can find information about my academic background.
+</span> 
 
 Education
 ======
