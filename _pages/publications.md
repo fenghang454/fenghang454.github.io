@@ -60,7 +60,7 @@ author_profile: true
    *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
    Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
    
-3. Zhu, K., **Feng, H**.,* Yu, J., Zhu, J., Song, J. (2026).
+3. Zhu, K., **Feng, H**.,* Yu, J., Zhu, J., Song, J., 2026.
    *A 1D macro-element model for suction caissons under inclined loading via scaling from Hardening-Soil relation.*  
    Ocean Engineering.     | [DOI](10.1016/j.oceaneng.2026.128346)
    
