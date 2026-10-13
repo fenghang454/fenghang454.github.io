@@ -59,7 +59,11 @@ author_profile: true
 2. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
    *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
    Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
-
+   
+3. Zhu, K., **Feng, H**.,* Yu, J., Zhu, J., Song, J. (2026).
+   *A 1D macro-element model for suction caissons under inclined loading via scaling from Hardening-Soil relation.*  
+   Ocean Engineering.     | [DOI](10.1016/j.oceaneng.2026.128346)
+   
 4. **Feng, H.**, Yin, Z. Y., Peng, M., 2024.
    *Macro-element modelling for lateral response of monopiles with local scour hole via hyperbolic hardening relation.*  
    Applied Ocean Research.  | [DOI](https://doi.org/10.1016/j.apor.2024.104233)
