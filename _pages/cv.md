@@ -16,11 +16,11 @@ redirect_from:
 
 * 2023.09-2026.09: **The Hong Kong Polytechnic University** (PolyU)
   * Ph.D. in geotechnical engineering
-  * Supervisor: [Zhen-yu Yin](https://geoinvention.com/)
+  <!-- * Supervisor: [Zhen-yu Yin](https://geoinvention.com/) -->
   * Thesis: Constitutive modelling of solid-fluid phase transition behaviors of soils and applications via material point method
 * 2020.09-2023.06: **Tongji University**
   * M.S. in geotechnical engineering
-  * Supervisor: [Maosong Huang](https://geotec.tongji.edu.cn/hms/main.psp)
+   <!-- * Supervisor: [Maosong Huang](https://geotec.tongji.edu.cn/hms/main.psp) -->
   * Thesis: The bearing and deformation characteristics of suction caisson subjected to vertical uplift load
 * 2016.09-2020.06: **University of Science and Technology Beijing** (USTB)
   * B.S. in civil engineering; Minor: German
