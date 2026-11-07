@@ -36,7 +36,7 @@ author_profile: true
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.70273)
 
-### <span style="font-family: Arial; font-style: italic; color: #007ACC;">One-phase fluid </span>
+#### <span style="font-family: Arial; font-style: italic; color: #007ACC;">One-phase fluid </span>
 
 1. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
    *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation.*  
