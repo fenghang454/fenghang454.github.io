@@ -58,7 +58,7 @@ author_profile: true
 
 ### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Engineering applications </span>
 
-#### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Application on landslides </span>
+#### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Landslides </span>
 
 1. **Feng, H.**, Yin, Z.Y., Ouyang, C., 2026.
    *Three‑dimensional material point method modeling of the full‑scale Huangtian landslide‑tsunami with a phase‑transition model.*  
@@ -68,7 +68,7 @@ author_profile: true
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
    Archives of Computational Methods in Engineering.  | [DOI](https://doi.org/10.1007/s11831-024-10198-0)
    
-#### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Application on offshore foundations </span>
+#### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Offshore foundations </span>
 
 1. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
    *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
