@@ -68,25 +68,25 @@ author_profile: true
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
    Archives of Computational Methods in Engineering.  | [DOI](https://doi.org/10.1007/s11831-024-10198-0)
    
-3. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
-   *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
-   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
-
 #### <span style="font-family: Arial; font-style: italic; color: #007ACC;">Application on offshore foundations </span>
 
-1. Zhu, K., **Feng, H**.,* Yu, J., Zhu, J., Song, J., 2026.
+1. Zhu, K., **Feng, H**.,* Yu, J., Li, S., 2026.
+   *Numerical investigation and ML-based formulation for conventional and modified suction caissons subjected to unidirectional and combined loadings.*  
+   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107637)
+   
+2. Zhu, K., **Feng, H**.,* Yu, J., Zhu, J., Song, J., 2026.
    *A 1D macro-element model for suction caissons under inclined loading via scaling from Hardening-Soil relation.*  
    Ocean Engineering.     | [DOI](10.1016/j.oceaneng.2026.128346)
    
-2. **Feng, H.**, Yin, Z. Y., Peng, M., 2024.
+3. **Feng, H.**, Yin, Z. Y., Peng, M., 2024.
    *Macro-element modelling for lateral response of monopiles with local scour hole via hyperbolic hardening relation.*  
    Applied Ocean Research.  | [DOI](https://doi.org/10.1016/j.apor.2024.104233)
 
-3. **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
+4. **Feng, H.**, Huang, M., Shi, Z., Shen, K., Wang, B., 2024.
    *Macro-element modeling of suction caisson subjected to vertical tensile loading via up-scaling soil stress-strain relations.*  
    Ocean Engineering.  | [DOI](https://doi.org/10.1016/j.oceaneng.2024.117850)
 
-4. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
+5. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
    *Inferred Winkler model for uplift response of suction caisson in undrained clays.*   
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
