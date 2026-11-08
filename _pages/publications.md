@@ -62,7 +62,7 @@ author_profile: true
 
 1. **Feng, H.**, Yin, Z.Y., Ouyang, C., 2026.
    *Three‑dimensional material point method modeling of the full‑scale Huangtian landslide‑tsunami with a phase‑transition model.*  
-   Landslides.  | [DOI](https://doi.org/10.1007/s11831-024-10198-0)
+   Landslides.  | [DOI](https://doi.org/10.1007/s10346-026-02869-9)
    
 2. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
