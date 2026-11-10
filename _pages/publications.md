@@ -46,7 +46,7 @@ author_profile: true
 
 1. **Feng, H.**, Yin, Z.Y., Qiu, Y., 2025.
    *Two-phase two-point MPM modeling of submarine granular flows considering solid-to-fluid phase transition over frictional plane.*  
-   Ocean Engineering.  | [DOI](https://doi.org/10.1007/s10346-026-02869-9.)
+   Ocean Engineering.  | [DOI](10.1016/j.oceaneng.2025.122798)
 
 2. **Feng, H.**, Yin, Z.Y., 2026.
    *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides.*  
