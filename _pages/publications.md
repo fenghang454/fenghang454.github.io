@@ -7,29 +7,31 @@ author_profile: true
 <span style="font-family: Arial; font-style: italic;"> 
   Full publications refer to: [Google scholar](https://scholar.google.com/citations?user=JNMEnjoAAAAJ&hl=zh-CN).
 </span>
+
 <!--
 "一年选取两篇文章放在上面即可，不能过度宣传"
 -->
+
 16. **Feng, H.**, Yin, Z.Y., Ouyang, C., 2026.
    *Three‑dimensional material point method modeling of the full‑scale Huangtian landslide‑tsunami with a phase‑transition model.*  
    Landslides.  | [DOI](https://doi.org/10.1007/s10346-026-02869-9)
-   
+
 15. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
    *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation.*  
-   Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)
+   Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)  
 
 <!--
 14. **Feng, H.**, Yin, Z.Y., 2026.
    *Staggered-grid explicit-implicit two-phase two-point MPM for submarine landslides.*  
-   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111652)
+   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111652)  
 
 13. **Feng, H.**, Yin, Z.Y., 2026.
    *Soil surface erosion simulation using material point method.*  
-   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111470)
+   International Journal of Mechanical Sciences.  | [DOI](https://doi.org/10.1016/j.ijmecsci.2026.111470)  
 
 12. **Feng, H.**, Yin, Z.Y., 2026.
    *Beyond critical state: A critical-state hydrodynamic model (CSHM) for solid-fluid phase transition of clay.*  
-   Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)
+   Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2026.108671)  
  
 11. **Feng, H.**, Yin, Z.Y., 2026.
    *Explicit-Implicit Material Point Method for Dense Granular Flows With a Novel Regularized µ(I) Model.*  
