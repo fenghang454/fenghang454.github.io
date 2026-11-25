@@ -12,11 +12,11 @@ author_profile: true
 "一年选取两篇文章放在上面即可，不能过度宣传"
 -->
 
-16. **Feng, H.**, Yin, Z.Y., Ouyang, C., 2026.
+1. **Feng, H.**, Yin, Z.Y., Ouyang, C., 2026.
    *Three‑dimensional material point method modeling of the full‑scale Huangtian landslide‑tsunami with a phase‑transition model.*  
    Landslides.  | [DOI](https://doi.org/10.1007/s10346-026-02869-9)
 
-15. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
+1. **Feng, H.**, Yin, Z.Y., Li Y., Liu, Y., 2026.
    *Enhanced cut-cell material point method for viscous incompressible flow past a cylinder: development and validation.*  
    Journal of Computational Physics.   | [DOI](https://doi.org/10.1016/j.jcp.2026.115120)  
 
@@ -46,11 +46,11 @@ author_profile: true
    Ocean Engineering.     | [DOI](10.1016/j.oceaneng.2026.128346)
 -->
 
-8. **Feng, H.**, Yin, Z.Y., Liang, W., 2025.
+1. **Feng, H.**, Yin, Z.Y., Liang, W., 2025.
    *A novel unified elastoplasticity-μ(I) phase transition model for granular flows from solid-like to fluid-like states and its application.*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2025.108054)
    
-7. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
+1. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
    *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.3947)
 
@@ -64,11 +64,11 @@ author_profile: true
    Ocean Engineering.  | [DOI](10.1016/j.oceaneng.2025.122798)
 -->
 
-4. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
+1. **Feng, H.**, Yin, Z. Y., Peng, M., Guo, Q., 2024.
    *State-of-the-Art Review of Continuum Mechanics-Based Modelling of Soil Surface Erosion.*  
    Archives of Computational Methods in Engineering.  | [DOI](https://doi.org/10.1007/s11831-024-10198-0)
    
-3. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
+1. Huang, M., **Feng, H.**, Shi, Z., Shen, K., Wang, B., 2024.
    *Inferred Winkler model for uplift response of suction caisson in undrained clays.*   
    Acta Geotechnica.  | [DOI](https://doi.org/10.1007/s11440-023-01916-2)
 
