@@ -49,15 +49,15 @@ author_profile: true
 8. **Feng, H.**, Yin, Z.Y., Liang, W., 2025.
    *A novel unified elastoplasticity-μ(I) phase transition model for granular flows from solid-like to fluid-like states and its application.*  
    Engineering Geology.  | [DOI](https://doi.org/10.1016/j.enggeo.2025.108054)
-
-<!--  
-7. **Feng, H.**, Yin, Z.Y., 2025.
-   *Enhanced elastoplasticity-based frictional-collisional model for solid-fluid phase transition of granular media.*  
-   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107218)
-
-6. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
+   
+7. **Feng, H.**, Liang, W., Yin, Z. Y., Hu, L., 2025.
    *Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States.*  
    International Journal for Numerical and Analytical Methods in Geomechanics.  | [DOI](https://doi.org/10.1002/nag.3947)
+
+<!--  
+6. **Feng, H.**, Yin, Z.Y., 2025.
+   *Enhanced elastoplasticity-based frictional-collisional model for solid-fluid phase transition of granular media.*  
+   Computers and Geotechnics.  | [DOI](https://doi.org/10.1016/j.compgeo.2025.107218)
 
 5. **Feng, H.**, Yin, Z.Y., Qiu, Y., 2025.
    *Two-phase two-point MPM modeling of submarine granular flows considering solid-to-fluid phase transition over frictional plane.*  
